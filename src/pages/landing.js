@@ -18,9 +18,11 @@ const Landing = () => {
         <div className='p-3'>
             <div className='text-4xl text-black font-bold mb-7'>Hi, I'm Whitney</div>
             <div className='p-3 border rounded mb-7'>
-                <div className='flex text-xl text-blakc font-black'>
+                <div className='flex text-xl text-black font-black'>
                     <div className='flex-1'>Full set</div>
                     <div>£20</div>
+                </div>
+                <div className='flex text-xl text-black font-black'>
                     <div className='flex-1'>Full set</div>
                     <div>£20</div>
                 </div>
