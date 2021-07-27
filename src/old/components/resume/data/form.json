@@ -1,0 +1,41 @@
+[
+    {
+        "title":"Personal Details",
+        "div":"input",
+        "fields":
+        [
+            {
+                "label":"First Name",
+                "for_id_name":"fname",
+                "type":"text"
+            },
+            {
+                "label":"Last Name",
+                "for_id_name":"lname",
+                "type":"text"
+            },
+            {
+                "label":"Email",
+                "for_id_name":"email",
+                "type":"email"
+            },
+            {
+                "label":"Phone",
+                "for_id_name":"number",
+                "type":"text"
+            }
+            
+        ]
+    },
+    {
+        "title":"Personal Summary",
+        "div":"textarea",
+        "fields":
+        [
+            {
+                "label":"Include 2-3 clear sentences about yourself",
+                "for_id_name":"personal_summary"
+            }
+        ]
+    }
+]
