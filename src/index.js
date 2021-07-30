@@ -1,5 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './fonts/Walsheim/GT-Walsheim-Bold.woff2';
+import './fonts/Walsheim/GT-Walsheim-Medium.woff2';
+import './fonts/Walsheim/GT-Walsheim-Regular.woff2';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';

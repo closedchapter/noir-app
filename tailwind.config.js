@@ -22,7 +22,8 @@ module.exports = {
   },
   variants: {
     extend: {
-      scale: ['hover'],
+      backgroundColor: ['active'],
+      textColor: ['active']
     },
   },
   plugins: [],

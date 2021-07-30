@@ -1,0 +1,36 @@
+{
+    "features":[
+        {
+        "title":"Discover",
+        "headline":"for buyers",
+        "elements":[
+            {
+                "heading":"Your beauty tech's number #1 spot.",
+                "content":"Whether you need a lash tech, make-up guru or wig installer - the Noir Discover has it all. We've made it easier than ever to find a service for all your beauty needs."
+            },
+            {
+                "heading":"Love your neighbour.",
+                "content":"Supporting a local business is always better. Noir Discover makes it easier than ever to cut out the middle-man and directly support a local service."
+            }
+        ]
+        },
+        {
+        "title":"Directive",
+        "headline":"for sellers",
+        "elements":[
+            {
+                "heading":"Location, location, location.",
+                "content":"Location is everything when it comes to business. Listing on the Noir Directive means that your clients can connect to you quickly."
+            },
+            {
+                "heading":"We're for everyone.",
+                "content":"Noir caters for all sizes of business. From large-scale corporate to instagram-based services."
+            },
+            {
+                "heading":"Set it, then forget it.",
+                "content":"Being a beauty tech means long hours and busy schedules. That's why we've made listing on the Noir Directive a quick and rewarding process! Just set it up once and enjoy an increase in bookings."
+            }
+        ]
+        }
+    ]
+}

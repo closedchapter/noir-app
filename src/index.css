@@ -2,8 +2,50 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: "WalsheimBold";
+  src: local("WalsheimBold"),
+   url("./fonts/Walsheim/GT-Walsheim-Bold.woff2") format("woff2");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "WalsheimMedium";
+  src: local("WalsheimMedium"),
+   url("./fonts/Walsheim/GT-Walsheim-Medium.woff2") format("woff2");
+  font-weight: medium;
+}
+
+@font-face {
+  font-family: "WalsheimRegular";
+  src: local("WalsheimRegular"),
+  url("./fonts/Walsheim/GT-Walsheim-Regular.woff2") format("woff2");
+  font-weight: normal;
+}
+
+.font-face-wb {
+ font-family: "WalsheimBold";
+}
+
+.font-face-wm {
+  font-family: "WalsheimMedium";
+ }
+
+ .font-face-wr {
+  font-family: "WalsheimRegular";
+ }
+
 
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+
+
+
+.better-shadow {
+  box-shadow: 0 20px 50px rgba(131, 40, 37, 0.3)
 }

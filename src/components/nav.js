@@ -1,12 +1,10 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const Nav = () => {
     return (
-        <div className='flex bg-white h-14 border-b'>
-            <div className='flex items-center space-x-1 mx-auto'>
-                <img className='w-6' src={require('./make-up.svg').default} alt=''/>
-                <div className='text-xl font-bold'>wlashedit</div>
-            </div>
+        <div className='fixed bg-white w-full p-4 flex z-50'>
+            <Link to='/' className='text-xl font-face-wb flex-1'>Noir</Link>
         </div>
     )
 }
