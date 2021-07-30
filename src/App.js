@@ -1,8 +1,8 @@
 import React from 'react';
 import { Route, Switch } from 'react-router-dom'
 import Nav from './components/nav'
-import Landing from './pages/Landing'
-import Discover from './pages/Discover'
+import Landing from './pages/Landing.js'
+import Discover from './pages/Discover.js'
 
 function App() {
   return (
