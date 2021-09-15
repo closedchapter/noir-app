@@ -1,16 +1,15 @@
 import React from 'react';
 import { Route, Switch } from 'react-router-dom'
-import Nav from './components/nav'
-import Landing from './pages/Landing.js'
-import Discover from './pages/Discover.js'
+
+import Homepage from './pages/homepage.js'
+import Research from './pages/research.js'
 
 function App() {
   return (
-    <div className="App">
-      <Nav/>
+    <div>
         <Switch>
-          <Route path="/" exact component={ Landing } />
-          <Route path="/discover" exact component={ Discover } />
+          <Route path="/" exact component={ Homepage } />
+          <Route path="/tell-us-more" exact component={ Research } />
         </Switch>
     </div>
   );

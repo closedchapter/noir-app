@@ -1,0 +1,36 @@
+{
+    "headline":"Make your clients' happy with personalised bookings",
+    "supporting-copy":"Bellé uses advanced AI to automate and personalise your clients booking experiences.",
+    "sub-heading":"Personalised experiences + powerful technology",
+    "supporting-copy-2":"Your clients' want to know that your service cares about them, and Bellés’ AI is programmed accordingly. As an industry-first, Bellé combines automatic bookings management and unique, AI-based personalisation to deliver individualised experiences and enhance your customers’ experience in ways that other appointment schedulers like Acuity and Calendly don’t.",
+    "value":[
+        {
+            "class-edit":"md:flex-row",
+            "short-imagery":"sincerely-media-ylveRpZ8L1s-unsplash",
+            "short-benefit":"More money, more growth",
+            "short-feature":"Make 25% more money with Bellés' AI-based booking experience",
+            "benefit":"Make more money",
+            "feature":"Implementing personalised experiences in your business has been proven to have a strong upwards effect on revenue, with one study finding it had a 25% revenue increase for businesses with advanced personalisation capacities."
+        },
+        {
+            "class-edit":"md:flex-row-reverse",
+            "short-imagery":"laura-chouette-EeXtt53uFlM-unsplash",
+            "short-benefit":"Made for local, made for you",
+            "short-feature":"Bellé is made for digital businesses on platforms like Instagram and Twitter",
+            "benefit":"Modernise your business",
+            "feature":"AI-powered personalisation will become increasingly relevant in 2022. With a rapid growth of online services based on social media platforms like Instagram and Twitter it makes sense to stay modern using the same tech as the big players."
+        },
+        {
+            "class-edit":"md:flex-row",
+            "short-imagery":"daniele-levis-pelusi-UUjxTEET0c0-unsplash",
+            "short-benefit":"Forget the rest, use the best",
+            "short-feature":"Bellé is the new way to take bookings. It's more flexible, faster and better value than other booking apps like Acuity or Calendly",
+            "benefit":"Build real relationships with clients",
+            "feature":"Your clients are looking for personalised, custom booking experiences online. Belle makes it possible to deliver personalised & empathetic booking experiences which keeps clients returning to your services, often with friends and family."
+        }
+    ],
+    "call-to-action":{
+        "sub-heading":"Automated bookings. Increased revenue. Real customer experiences.",
+        "supporting-copy":"Setup your account in minutes and join the thousands of business who have improved their digital services using Bellé"
+    }
+}
